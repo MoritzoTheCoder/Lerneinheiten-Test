@@ -253,15 +253,19 @@ Lesen Sie einen Textabschnitt zweimal und erstellen Sie nach dem zweiten Lesen e
 Während Sie ein Kapitel über das menschliche Herz lesen, stellen Sie sich das Herz und seine Teile vor. Zeichnen Sie eine einfache Skizze, die die Teile und deren Funktionen darstellt.
 </details>
 
-## Quiz
+## Testen Sie Ihr Wissen über Lerntechniken
 
-### Multiple-Choice-Fragen
+### Single-Choice-Fragen
 
 1. **Welche Lerntechnik (Practice Testing) beinhaltet das regelmäßige Testen des eigenen Wissens?**
 
    - [( )] Verteiltes Lernen (Distributed Practice)
    - [( )] Zusammenfassen (Summarization)
    - [(x)] Üben durch Testen (Practice Testing)
+<<<<<<< HEAD
+=======
+   - [[?]] *Diese Lerntechnik solltest du wirklich kennen!*
+>>>>>>> origin/main
    - [( )] Selbsterklärung (Self-Explanation)
 
 2. **Welche Lerntechnik (Interleaved Practice) fördert das Zurück- und Wiederabrufen verschiedener Informationen?**
@@ -389,9 +393,15 @@ Während Sie ein Kapitel über das menschliche Herz lesen, stellen Sie sich das 
     - [( )] Moderat effektiv
     - [( )] Hoch effektiv
 
+<<<<<<< HEAD
 11. **Welche hoch effektive Lerntechnik sollten Sie unbedingt einsetzen?**
 
    -  [[Practice Testing]]
+=======
+11. **Wie heißt die nach Dunlosky et al. (2013) effektivste Lerntechnik?
+
+    [[Practice Testing]]
+>>>>>>> origin/main
 
 ## Fazit
 
