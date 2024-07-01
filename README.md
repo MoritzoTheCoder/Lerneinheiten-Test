@@ -1,10 +1,12 @@
 # Lerneinheit zu Effektiven Lerntechniken (BETA VERSION)
 Dieses Modul basiert inhaltlich auf dem Artikel
+
 >Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques: Promising directions from cognitive and educational psychology. Psychological Science in the Public Interest, 14(1), 4-58.
 
 Dieser Artikel wurde in die KI ChatGPT eingepeist mit dem Prompt:
+
 >Please, create a learning module with Liascript about more or less effective learning techniques. A useful scientific source is an Article by Dunlosky et al. (2013) with the title "Improving students' learning with effective learning techniques: Promising directions from cognitive and educational psychology"
->
+
 Anschließend wurde mit verschiedenen Prompts zur Präzision aufgefordert, indem auf Fehler hingewiesen wurde bzw. die KI aufgefordert wurde, Aspekte ausführlicher darzustellen. Dennoch kann für diese Beta-Version der Lerneinheit keine Garantier für inhaltliche Richtigkeit in allen Details übernommen werden!
 
 Zweck dieser Beta-Version ist es, den KI-gestützten Workflow der Erstellung einer OER-Lerneinheit auf Basis von Markdown/ [LiaScript](https://liascript.github.io/) auszuprobieren.
