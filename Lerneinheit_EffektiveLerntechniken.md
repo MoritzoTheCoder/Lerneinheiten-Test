@@ -1,3 +1,5 @@
+[preview-lia](https://github.com/MoritzoTheCoder/LiaScriptDocs/blob/51c5b9e2f842f09afa69c181f83000ade551d56f/Lerneinheit_EffektiveLerntechniken.md)
+
 # Lerneinheit zu Effektiven Lerntechniken (BETA VERSION)
 Dieses Modul basiert inhaltlich auf dem Artikel
 
@@ -262,8 +264,8 @@ Während Sie ein Kapitel über das menschliche Herz lesen, stellen Sie sich das 
    - [( )] Verteiltes Lernen (Distributed Practice)
    - [( )] Zusammenfassen (Summarization)
    - [(x)] Üben durch Testen (Practice Testing)
-   - [[?]] *Diese Lerntechnik solltest du wirklich kennen!*
    - [( )] Selbsterklärung (Self-Explanation)
+   - [[?]] *Diese Lerntechnik solltest du wirklich kennen!*
 
 2. **Welche Lerntechnik fördert das Zurück- und Wiederabrufen verschiedener Informationen?**
 
@@ -392,7 +394,7 @@ Während Sie ein Kapitel über das menschliche Herz lesen, stellen Sie sich das 
 
 11. **Wie heißt die nach Dunlosky et al. (2013) effektivste Lerntechnik?
 
-    [[Practice Testing]]
+    [[Practice Testing|Distributed Practice]]
 
 ## Fazit
 
