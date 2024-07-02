@@ -264,8 +264,8 @@ Während Sie ein Kapitel über das menschliche Herz lesen, stellen Sie sich das 
    - [( )] Verteiltes Lernen (Distributed Practice)
    - [( )] Zusammenfassen (Summarization)
    - [(x)] Üben durch Testen (Practice Testing)
-       - [[?]] *Diese Lerntechnik solltest du wirklich kennen!*
    - [( )] Selbsterklärung (Self-Explanation)
+   - [[?]] *Diese Lerntechnik sollte man wirklich kennen!*
 
 2. **Welche Lerntechnik fördert das Zurück- und Wiederabrufen verschiedener Informationen?**
 
