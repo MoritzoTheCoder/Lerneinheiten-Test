@@ -257,7 +257,7 @@ Während Sie ein Kapitel über das menschliche Herz lesen, stellen Sie sich das 
 
 ### Single-Choice-Fragen
 
-1. **Welche Lerntechnik (Practice Testing) beinhaltet das regelmäßige Testen des eigenen Wissens?**
+1. **Welche Lerntechnik beinhaltet das regelmäßige Testen des eigenen Wissens?**
 
    - [( )] Verteiltes Lernen (Distributed Practice)
    - [( )] Zusammenfassen (Summarization)
@@ -265,7 +265,7 @@ Während Sie ein Kapitel über das menschliche Herz lesen, stellen Sie sich das 
    - [[?]] *Diese Lerntechnik solltest du wirklich kennen!*
    - [( )] Selbsterklärung (Self-Explanation)
 
-2. **Welche Lerntechnik (Interleaved Practice) fördert das Zurück- und Wiederabrufen verschiedener Informationen?**
+2. **Welche Lerntechnik fördert das Zurück- und Wiederabrufen verschiedener Informationen?**
 
    - [(x)] Abwechselndes Lernen (Interleaved Practice)
    - [( )] Markieren und Unterstreichen (Highlighting and Underlining)
@@ -279,49 +279,49 @@ Während Sie ein Kapitel über das menschliche Herz lesen, stellen Sie sich das 
    - [( )] Visuelle Darstellung von Informationen
    - [( )] Verbale Wiederholung
 
-4. **Welche Technik (Rereading) umfasst das mehrfache Lesen desselben Textes?**
+4. **Welche Technik umfasst das mehrfache Lesen desselben Textes?**
 
    - [( )] Selbsterklärung (Self-Explanation)
    - [( )] Imagination (Imagery for Text Learning)
    - [(x)] Lesewiederholung (Rereading)
    - [( )] Elaborative Befragung (Elaborative Interrogation)
 
-5. **Welche Technik (Mnemonic Devices) wird verwendet, um große Mengen an Informationen durch Assoziationen oder Akronyme zu erinnern?**
+5. **Welche Technik wird verwendet, um große Mengen an Informationen durch Assoziationen oder Akronyme zu erinnern?**
 
    - [(x)] Mnemotechniken (Mnemonic Devices)
    - [( )] Abwechselndes Lernen (Interleaved Practice)
    - [( )] Verteiltes Lernen (Distributed Practice)
    - [( )] Zusammenfassen (Summarization)
 
-6. **Welche Technik (Distributed Practice) soll die langfristige Behaltung verbessern, indem das Lernen über längere Zeiträume verteilt wird?**
+6. **Welche Technik soll die langfristige Behaltung verbessern, indem das Lernen über längere Zeiträume verteilt wird?**
 
    - [(x)] Verteiltes Lernen (Distributed Practice)
    - [( )] Üben durch Testen (Practice Testing)
    - [( )] Mnemotechniken (Mnemonic Devices)
    - [( )] Markieren und Unterstreichen (Highlighting and Underlining)
 
-7. **Welche Technik (Elaborative Interrogation) beinhaltet das Erklären, warum ein Fakt oder ein Konzept wahr ist?**
+7. **Welche Technik beinhaltet das Erklären, warum ein Fakt oder ein Konzept wahr ist?**
 
    - [( )] Lesewiederholung (Rereading)
    - [(x)] Elaborative Befragung (Elaborative Interrogation)
    - [( )] Imagination (Imagery for Text Learning)
    - [( )] Selbsterklärung (Self-Explanation)
 
-8. **Welche Technik (Imagery for Text Learning) hilft, Informationen zugänglich zu machen, indem sie sie in visueller Form präsentiert?**
+8. **Welche Technik hilft, Informationen zugänglich zu machen, indem sie sie in visueller Form präsentiert?**
 
    - [( )] Zusammenfassen (Summarization)
    - [(x)] Imagination (Imagery for Text Learning)
    - [( )] Selbsterklärung (Self-Explanation)
    - [( )] Mnemotechniken (Mnemonic Devices)
 
-9. **Welche Technik (Summarization) umfasst das Schreiben von Zusammenfassungen der gelesenen Texte?**
+9. **Welche Technik umfasst das Schreiben von Zusammenfassungen der gelesenen Texte?**
 
    - [(x)] Zusammenfassen (Summarization)
    - [( )] Markieren und Unterstreichen (Highlighting and Underlining)
    - [( )] Lesewiederholung (Rereading)
    - [( )] Üben durch Testen (Practice Testing)
 
-10. **Welche Technik (Highlighting and Underlining) beinhaltet das Hervorheben wichtiger Informationen in Texten?**
+10. **Welche Technik beinhaltet das Hervorheben wichtiger Informationen in Texten?**
 
     - [( )] Verteiltes Lernen (Distributed Practice)
     - [( )] Üben durch Testen (Practice Testing)
